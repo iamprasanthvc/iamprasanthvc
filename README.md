@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Prasanth V C
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([https://postimg.cc/t75SCf7K](https://i.postimg.cc/kXrkwPCg/bgpc.png))
+### Hola 👋,
+My name is Prasanth V C
+#### I am a Frontend Developer
+![I am a Frontend Developer](https://i.postimg.cc/kXrkwPCg/bgpc.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Front End Engineer based in India ☀️. I am a passionate developer who loves coding, open source, and the web platform ❤️.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open-source projects. Also, I enjoy writing technical things ✍️ on my blog.
 
-- 🔭 I’m currently working on this page. 
+In my free time, you can find me Dancing, at the gym, at the ride  or at tech meetups and conferences around India
+
+Skills: REACT / JS / HTML / Tailwind CSS/ Photoshop/ 
+
+
 
 
 
