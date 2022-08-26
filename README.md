@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Prasanth V C</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on ** React Developement**
+- 🔭 I’m currently working on **React Developement**
 
 - 🌱 I’m currently learning **Tailwind CSS and React js**
 
