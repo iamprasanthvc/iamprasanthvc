@@ -1,13 +1,9 @@
 <h1 align="center">Hola 👋, I'm Prasanth V C</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamprasanthvc&label=Profile%20views&color=0e75b6&style=flat" alt="iamprasanthvc" /> </p>
+- 🔭 I’m currently working on ** React Developement**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamprasanthvc" alt="iamprasanthvc" /></a> </p>
-
-- 🔭 I’m currently working on **Solid Clothing**
-
-- 🌱 I’m currently learning **Tailwind CSS and Mongo DB**
+- 🌱 I’m currently learning **Tailwind CSS and React js**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
